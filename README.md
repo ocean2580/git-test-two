@@ -4,3 +4,4 @@
 hhh
 fix-B
 >>>>>>> fix-B
+-feature-c
